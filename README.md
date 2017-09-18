@@ -1,5 +1,4 @@
 # QuickTask
-Soding Individual Assignment
 
 Step1. Extract the package to your local server
 
